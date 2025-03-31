@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_frankenstein_walk_side",
-    "path":"sprites/spr_frankenstein_walk_side/spr_frankenstein_walk_side.yy",
+    "name":"spr_frankenstein_defeat_down",
+    "path":"sprites/spr_frankenstein_defeat_down/spr_frankenstein_defeat_down.yy",
   },
   "spriteMaskId":null,
   "visible":true,
