@@ -23,15 +23,21 @@ level_path = pth_level_1;
 
 // Wave 1
 array_push(wave_array, new WaveData(
-	[obj_zombie, obj_zombie, obj_zombie, obj_zombie, obj_zombie, obj_frankenstein],
-	(room_speed * 0.5)
+	[obj_zombie, obj_zombie, obj_frankenstein, obj_zombie, obj_zombie, 
+	obj_zombie, obj_zombie, obj_frankenstein,	obj_frankenstein, obj_frankenstein, 
+	obj_zombie, obj_zombie, obj_zombie,	obj_zombie, obj_zombie, 
+	obj_frankenstein, obj_frankenstein, obj_frankenstein,	obj_frankenstein, obj_frankenstein],
+	(room_speed * 3)
 ));
 
 // Wave 2
 array_push(wave_array, new WaveData(
 	[obj_zombie, obj_zombie, obj_frankenstein, obj_zombie, obj_zombie, 
-	obj_zombie, obj_zombie, obj_frankenstein,	obj_frankenstein, obj_frankenstein],
-	room_speed * 0.25
+	obj_zombie, obj_zombie, obj_frankenstein,	obj_frankenstein, obj_frankenstein,obj_zombie, obj_zombie, obj_frankenstein, obj_zombie, obj_zombie, 
+	obj_zombie, obj_zombie, obj_frankenstein,	obj_frankenstein, obj_frankenstein, 
+	obj_zombie, obj_zombie, obj_zombie,	obj_zombie, obj_zombie, 
+	obj_frankenstein, obj_frankenstein, obj_frankenstein,	obj_frankenstein, obj_frankenstein],
+	room_speed * 1.75
 ));
 
 // Wave 3
@@ -39,7 +45,13 @@ array_push(wave_array, new WaveData(
 	[obj_zombie, obj_zombie, obj_frankenstein, obj_zombie, obj_zombie, 
 	obj_zombie, obj_zombie, obj_frankenstein,	obj_frankenstein, obj_frankenstein, 
 	obj_zombie, obj_zombie, obj_zombie,	obj_zombie, obj_zombie, 
+	obj_frankenstein, obj_frankenstein, obj_frankenstein,	obj_frankenstein, obj_frankenstein,obj_zombie, obj_zombie, obj_frankenstein, obj_zombie, obj_zombie, 
+	obj_zombie, obj_zombie, obj_frankenstein,	obj_frankenstein, obj_frankenstein, 
+	obj_zombie, obj_zombie, obj_zombie,	obj_zombie, obj_zombie, 
+	obj_frankenstein, obj_frankenstein, obj_frankenstein,	obj_frankenstein, obj_frankenstein,obj_zombie, obj_zombie, obj_frankenstein, obj_zombie, obj_zombie, 
+	obj_zombie, obj_zombie, obj_frankenstein,	obj_frankenstein, obj_frankenstein, 
+	obj_zombie, obj_zombie, obj_zombie,	obj_zombie, obj_zombie, 
 	obj_frankenstein, obj_frankenstein, obj_frankenstein,	obj_frankenstein, obj_frankenstein],
-	(room_speed  * 0.001)
+	(room_speed  * 1)
 ));
 
