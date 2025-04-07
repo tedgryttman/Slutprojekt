@@ -2,7 +2,7 @@
 
 
 // This variable stores the amount of money currently available to spend
-money = 150;
+money = 20000000000;
 
 // This variable stores the amount of health the village has
 village_hp = 10;
