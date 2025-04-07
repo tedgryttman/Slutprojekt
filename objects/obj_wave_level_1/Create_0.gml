@@ -24,14 +24,14 @@ level_path = pth_level_1;
 // Wave 1
 array_push(wave_array, new WaveData(
 	[obj_zombie, obj_zombie, obj_zombie, obj_zombie, obj_zombie, obj_frankenstein],
-	(room_speed * 3)
+	(room_speed * 0.5)
 ));
 
 // Wave 2
 array_push(wave_array, new WaveData(
 	[obj_zombie, obj_zombie, obj_frankenstein, obj_zombie, obj_zombie, 
 	obj_zombie, obj_zombie, obj_frankenstein,	obj_frankenstein, obj_frankenstein],
-	room_speed * 1.75
+	room_speed * 0.25
 ));
 
 // Wave 3
@@ -40,6 +40,6 @@ array_push(wave_array, new WaveData(
 	obj_zombie, obj_zombie, obj_frankenstein,	obj_frankenstein, obj_frankenstein, 
 	obj_zombie, obj_zombie, obj_zombie,	obj_zombie, obj_zombie, 
 	obj_frankenstein, obj_frankenstein, obj_frankenstein,	obj_frankenstein, obj_frankenstein],
-	(room_speed  * 1.55)
+	(room_speed  * 0.001)
 ));
 
