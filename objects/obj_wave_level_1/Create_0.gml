@@ -27,7 +27,7 @@ array_push(wave_array, new WaveData(
 	obj_zombie, obj_zombie, obj_frankenstein,	obj_frankenstein, obj_frankenstein, 
 	obj_zombie, obj_zombie, obj_zombie,	obj_zombie, obj_zombie, 
 	obj_frankenstein, obj_frankenstein, obj_frankenstein,	obj_frankenstein, obj_frankenstein],
-	(room_speed * 3)
+	(room_speed * 1)
 ));
 
 // Wave 2
@@ -37,7 +37,7 @@ array_push(wave_array, new WaveData(
 	obj_zombie, obj_zombie, obj_frankenstein,	obj_frankenstein, obj_frankenstein, 
 	obj_zombie, obj_zombie, obj_zombie,	obj_zombie, obj_zombie, 
 	obj_frankenstein, obj_frankenstein, obj_frankenstein,	obj_frankenstein, obj_frankenstein],
-	room_speed * 1.75
+	room_speed * 1
 ));
 
 // Wave 3
