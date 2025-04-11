@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"spr_tower_base",
+  "%Name":"StrategicPoint",
   "bboxMode":0,
   "bbox_bottom":107,
   "bbox_left":0,
@@ -21,7 +21,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"210df2d7-6585-4aa5-8ef6-eb9a6e4119f4","blendMode":0,"displayName":"default","isLocked":false,"name":"210df2d7-6585-4aa5-8ef6-eb9a6e4119f4","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_tower_base",
+  "name":"StrategicPoint",
   "nineSlice":null,
   "origin":7,
   "parent":{
@@ -32,8 +32,8 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
-    "%Name":"spr_tower_base",
+    "$GMSequence":"v1",
+    "%Name":"StrategicPoint",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,19 +57,21 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_tower_base",
+    "name":"StrategicPoint",
     "playback":1,
     "playbackSpeed":0.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
+    "seqHeight":128.0,
+    "seqWidth":128.0,
     "showBackdrop":true,
     "showBackdropImage":false,
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8e187cb2-8acb-44aa-91f3-c623b8b82e88","path":"sprites/spr_tower_base/spr_tower_base.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8e187cb2-8acb-44aa-91f3-c623b8b82e88","path":"sprites/StrategicPoint/StrategicPoint.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"786e47ea-4558-4e43-a03c-0fa99151618e","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

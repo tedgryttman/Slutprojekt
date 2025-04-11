@@ -1,5 +1,5 @@
 {
-  "$GMProject":"",
+  "$GMProject":"v1",
   "%Name":"Slutprojekt",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
@@ -56,11 +56,12 @@
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
+  "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.13.0.190",
   },
   "name":"Slutprojekt",
   "resources":[
@@ -252,7 +253,6 @@
     {"id":{"name":"spr_tower_archer_base","path":"sprites/spr_tower_archer_base/spr_tower_archer_base.yy",},},
     {"id":{"name":"spr_tower_archer_top","path":"sprites/spr_tower_archer_top/spr_tower_archer_top.yy",},},
     {"id":{"name":"spr_tower_background","path":"sprites/spr_tower_background/spr_tower_background.yy",},},
-    {"id":{"name":"spr_tower_base","path":"sprites/spr_tower_base/spr_tower_base.yy",},},
     {"id":{"name":"spr_tower_icon_arc","path":"sprites/spr_tower_icon_arc/spr_tower_icon_arc.yy",},},
     {"id":{"name":"spr_tower_icon_archer","path":"sprites/spr_tower_icon_archer/spr_tower_icon_archer.yy",},},
     {"id":{"name":"spr_tower_icon_sell","path":"sprites/spr_tower_icon_sell/spr_tower_icon_sell.yy",},},
@@ -276,6 +276,7 @@
     {"id":{"name":"spr_zombie_walk_down","path":"sprites/spr_zombie_walk_down/spr_zombie_walk_down.yy",},},
     {"id":{"name":"spr_zombie_walk_side","path":"sprites/spr_zombie_walk_side/spr_zombie_walk_side.yy",},},
     {"id":{"name":"spr_zombie_walk_up","path":"sprites/spr_zombie_walk_up/spr_zombie_walk_up.yy",},},
+    {"id":{"name":"StrategicPoint","path":"sprites/StrategicPoint/StrategicPoint.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
