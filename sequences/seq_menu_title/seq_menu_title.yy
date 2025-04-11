@@ -1,5 +1,5 @@
 {
-  "$GMSequence":"",
+  "$GMSequence":"v1",
   "%Name":"seq_menu_title",
   "autoRecord":true,
   "backdropHeight":1080,
@@ -34,6 +34,8 @@
   "playbackSpeedType":0,
   "resourceType":"GMSequence",
   "resourceVersion":"2.0",
+  "seqHeight":488.0,
+  "seqWidth":634.0,
   "showBackdrop":true,
   "showBackdropImage":false,
   "spriteId":null,
