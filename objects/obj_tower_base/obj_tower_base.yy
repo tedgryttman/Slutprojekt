@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_tower_base",
-    "path":"sprites/spr_tower_base/spr_tower_base.yy",
+    "name":"StrategicPoint",
+    "path":"sprites/StrategicPoint/StrategicPoint.yy",
   },
   "spriteMaskId":null,
   "visible":true,
