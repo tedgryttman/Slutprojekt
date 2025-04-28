@@ -134,6 +134,7 @@
     {"id":{"name":"obj_zombie_defeat_side","path":"objects/obj_zombie_defeat_side/obj_zombie_defeat_side.yy",},},
     {"id":{"name":"obj_zombie","path":"objects/obj_zombie/obj_zombie.yy",},},
     {"id":{"name":"pth_level_1","path":"paths/pth_level_1/pth_level_1.yy",},},
+    {"id":{"name":"End_credits","path":"rooms/End_credits/End_credits.yy",},},
     {"id":{"name":"rm_level_1","path":"rooms/rm_level_1/rm_level_1.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"GameplayScripts","path":"scripts/GameplayScripts/GameplayScripts.yy",},},
@@ -284,6 +285,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_level_1","path":"rooms/rm_level_1/rm_level_1.yy",},},
+    {"roomId":{"name":"End_credits","path":"rooms/End_credits/End_credits.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
