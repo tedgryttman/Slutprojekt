@@ -143,6 +143,7 @@
     {"id":{"name":"seq_arc_fire_fade","path":"sequences/seq_arc_fire_fade/seq_arc_fire_fade.yy",},},
     {"id":{"name":"seq_arc_fire","path":"sequences/seq_arc_fire/seq_arc_fire.yy",},},
     {"id":{"name":"seq_arrow_fire","path":"sequences/seq_arrow_fire/seq_arrow_fire.yy",},},
+    {"id":{"name":"seq_end_credits","path":"sequences/seq_end_credits/seq_end_credits.yy",},},
     {"id":{"name":"seq_game_hud","path":"sequences/seq_game_hud/seq_game_hud.yy",},},
     {"id":{"name":"seq_menu_buttons","path":"sequences/seq_menu_buttons/seq_menu_buttons.yy",},},
     {"id":{"name":"seq_menu_title","path":"sequences/seq_menu_title/seq_menu_title.yy",},},
